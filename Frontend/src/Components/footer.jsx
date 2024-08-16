@@ -61,7 +61,7 @@ const Footer = () => {
             <br />
             <a
               className={`${styles.name}`}
-              href="https://www.linkedin.com/in/vikaskashyap1334/"
+              href="https://www.linkedin.com/in/abhishek-kumar-4b1470216/"
               target="_blank"
               rel="noreferrer"
             >
