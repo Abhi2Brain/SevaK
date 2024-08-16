@@ -31,7 +31,7 @@ const Footer = () => {
           </a>
           <a
             className={`${styles.linkedin}`}
-            href="https://www.linkedin.com/groups/2111574/"
+            href="https://www.linkedin.com/in/abhishek-kumar-4b1470216/"
             target="_blank"
             rel="noreferrer"
           >
